@@ -1,0 +1,2 @@
+# Testing-QA-manual
+En mi portafolio como Tester QA Manual, destaco mi experiencia en pruebas manuales enfocadas en la carga y manipulación de archivos. Mi enfoque garantiza la calidad y el funcionamiento adecuado de aplicaciones que gestionan archivos de diversos tipos. Mis logros incluyen pruebas exhaustivas de carga, validación de formatos, gestión de errores, seguridad de datos y optimización del rendimiento. Mi portafolio contiene evidencia de casos exitosos y certificaciones relevantes, demostrando mi compromiso con la calidad en QA Manual.
